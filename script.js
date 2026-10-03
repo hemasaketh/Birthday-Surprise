@@ -159,19 +159,19 @@ createParticles();
 const loveMessages = {
 
     1:
-        "Every fight reveals just how deeply you’ve come to understand me, and somehow, it only makes our bond stronger",
+        "You’re honestly too easy to like… that’s your biggest problem. 😂",
 
     2:
-        "Comfort is one of the rarest things to find in this world, yet somehow, I found it so effortlessly in you.",
+        "And yes, I’m going to keep annoying you, so don’t even think you’re getting rid of me that easily. 😌",
 
     3:
-        "Even in my darkest moments, you somehow pull me toward the light, and having you beside me gives me the confidence to face life",
+        "Life is definitely more fun with a little rabbit like you around. 😁",
 
     4:
-        "You have become one of those people whose presence genuinely matters to me.",
+        "ante website koncham posh ga undhi, so koncham english add chesaa.....",
 
     5:
-        "And I'm really glad that, out of all the people I could have met, I met you."
+        "Please stay exactly like this. I’ve already gotten used to your cute nonsense"
 
 };
 
